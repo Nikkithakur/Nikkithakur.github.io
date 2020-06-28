@@ -1,0 +1,10 @@
+.contactform{
+    color: black;    
+    border: 1px solid white;
+    margin-top: 20px;
+    padding: 30px 30px ;
+    box-shadow: 3px 2px 15px 15px rgba(0,0,0,0.75);
+    border-radius:20px 20px 20px 20px;
+    font-family: cursive;
+    background-color: whitesmoke;
+    }
